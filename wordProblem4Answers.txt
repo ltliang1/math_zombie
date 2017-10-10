@@ -1,0 +1,4 @@
+length = 26 yd, width = 21 yd
+length = 21 yd, width = 26 yd
+length = 21 yd, width = 16 yd
+length = 16 yd, width = 21 yd

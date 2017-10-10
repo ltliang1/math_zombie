@@ -1,0 +1,5 @@
+Simplify this big equation to the simplest form possible. Note that if you don't simplify 
+to the simplest you will get it wrong. 
+
+(24x + 152 - 6(14y * 4^2) + 9 / cos60) * 14z(z + 5) = 5 
+Use the text area to answer the question.

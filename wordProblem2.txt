@@ -1,0 +1,6 @@
+The height of a building in New York is 200 feet while you stand 100 feet away from it. 
+You want to find the distance in feet from the point you are standing to the top of the 
+building. What is the distance from the point in which you are standing to the point 
+at the top of the building to the nearest tenth? (Hint: The building and the ground are 
+perpendicular). Use the text area to answer this question and make sure to indicate the 
+full name of the unit without any capitalizations (ex: inches).

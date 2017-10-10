@@ -1,0 +1,4 @@
+Sphere: v = 924921.8ft^3, sa = 2039pi ft^2, Cube: v = 195828ft^3
+Sphere: v = 352681.9ft^3, sa = 3958pi ft^2, Cube: v = 259284ft^3
+Sphere: v = 344791.4ft^3, sa = 7569pi ft^2, Cube: v = 857375ft^3 *
+Sphere: v = 187238.5ft^3, sa = 1958pi ft^2, Cube: v = 281839ft^3

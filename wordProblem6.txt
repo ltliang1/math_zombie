@@ -1,0 +1,5 @@
+Anne is riding a horse which is tied to a pole with a 3.5m piece of rope and her friend 
+Laura is riding a donkey which is 2m from the same center point. Calculate the distance 
+travelled by each when they have rotated 50 times around the centre. Use the text field 
+to answer this question and leave answers in pi if possible. (ex: Anne: 20pi m, Laura: 20pi 
+m).
